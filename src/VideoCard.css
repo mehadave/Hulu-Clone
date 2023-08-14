@@ -14,6 +14,7 @@
     height: 300px;
     object-fit: contain; /* VV IMP to ensure screen ratio of image stays same for each movie */
     width: 500px;
+    max-width: 99%;
 }
 
 .videoCard_stats{
